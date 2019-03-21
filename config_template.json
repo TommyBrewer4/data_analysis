@@ -1,0 +1,71 @@
+{
+	"connection_arguments": [{
+			"MSSQLSERVER": [{
+				"Addr": null,
+				"Address": null,
+				"AnsiNPW": null,
+				"APP": null,
+				"ApplicationIntent": null,
+				"AttachDBFileName": null,
+				"AutoTranslate": null,
+				"Database": "",
+				"Driver": "",
+				"DSN": null,
+				"Encrypt": null,
+				"Failover_Partner": null,
+				"FailoverPartnerSPN": null,
+				"Fallback": null,
+				"FileDSN": null,
+				"Language": null,
+				"MARS_Connection": "",
+				"MultiSubnetFailover": null,
+				"Net": null,
+				"Network": null,
+				"PWD": null,
+				"QueryLog_On": null,
+				"QueryLogFile": null,
+				"QueryLogTime": null,
+				"QuotedId": null,
+				"Regional": null,
+				"SaveFile": null,
+				"Server": "",
+				"ServerSPN": null,
+				"StatsLog_On": null,
+				"StatsLogFile": null,
+				"Trusted_Connection": "",
+				"TrustServerCertificate": null,
+				"UID": null,
+				"UseProcForPrepare": null,
+				"WSID": null
+			}]
+		},
+		{
+			"reddit_bot": [{
+				"username": "",
+				"password": "",
+				"client_id": "",
+				"client_secret": "",
+				"user_agent": "",
+				"bot_call": "",
+				"bot_subreddit": "",
+				"source_database": ""
+			}]
+		},
+		{
+			"api_bot": [{
+				"application": "",
+				"key": "",
+				"api_endpoint_base":"",
+				"macros":[{
+					"id":,
+					"command":"",
+					"prefix":"",
+					"parameters":[{
+						"api_key": "",
+						"language":""
+					}]
+				}]
+			}]
+		}
+	]
+}
